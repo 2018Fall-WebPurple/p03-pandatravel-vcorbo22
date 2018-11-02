@@ -1,0 +1,56 @@
+/*
+* Victoria Corbo
+* November 2, 2018
+* Project Name and Description
+*/
+
+#QueenMary {
+    height: 200px;
+    width: 300px;
+}
+
+#QueenMary2 {
+    height: 200px;
+    width: 300px;
+    float: right;
+}
+
+#Experience{
+    clear: right;
+}
+
+#Collision {
+    height: 250px;
+    width: 400px;
+}
+
+#CollisionFigure {
+    float: right;
+}
+
+#Stateroom {
+    float: right;
+}
+
+#StateroomB340 {
+    height: 250px;
+    width: 400px
+}
+
+#Area {
+    clear: right;
+}
+
+#Celebration {
+    float: right;
+}
+#Anniversary {
+    height: 300px;
+    width: 500px;
+}
+
+body {
+    background-color: lightcyan;
+    color: black;
+    font-family: "Times New Roman";
+}
